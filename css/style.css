@@ -12,7 +12,10 @@ body {
 }
 
 main {
+    margin-top: 30px;
+    margin-bottom: 30px;
     margin-left: 10px;
+    margin-right: 10px;
 }
 
 header h1{
@@ -34,4 +37,25 @@ header a{
 
 .img-desc{
     font-size: xx-small;
+}
+
+#lorem{
+    font-size: small;
+}
+
+#table{
+    font-size: small;
+    width: 100%;
+}
+
+thead {
+    background-color: lightskyblue;
+}
+
+.row{
+    height: 30px;
+}
+
+.row-grey {
+    background-color: lightgrey;
 }
