@@ -13,7 +13,6 @@ body {
 
 main {
     margin-top: 30px;
-    margin-bottom: 30px;
     margin-left: 10px;
     margin-right: 10px;
 }
@@ -43,6 +42,10 @@ header a{
     font-size: small;
 }
 
+#text-yellow{
+    background-color: yellow;
+}
+
 #table{
     font-size: small;
     width: 100%;
@@ -58,4 +61,12 @@ thead {
 
 .row-grey {
     background-color: lightgrey;
+}
+
+footer{
+    background-color: darkblue;
+    text-align: center;
+    color: white;
+    margin-top: 30px;
+    padding: 20px;
 }
